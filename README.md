@@ -140,8 +140,3 @@ void drawShapes() {
     delay(1000);
 }
 ```
-
-## Useful Links
-- [ESP32-HUB75-MatrixPanel-DMA Library Documentation](https://github.com/mrcodetastic/ESP32-HUB75-MatrixPanel-I2S-DMA/blob/master/README.md)
-- [Project Wiki](https://github.com/mrcodetastic/ESP32-HUB75-MatrixPanel-I2S-DMA/wiki)
-- [Example Code](https://github.com/mrcodetastic/ESP32-HUB75-MatrixPanel-I2S-DMA/tree/master/examples)
