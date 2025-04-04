@@ -1,6 +1,6 @@
 # ESP32 HUB75 16x32 LED Matrix Test
 
-This project provides a simple test code for HUB75 16x32 LED Matrix panels using ESP32. It's based on the [ESP32-HUB75-MatrixPanel-DMA](https://github.com/mrcodetastic/ESP32-HUB75-MatrixPanel-I2S-DMA) library by mrcodetastic.
+This project provides a simple test code for HUB75 16x32 LED Matrix panels using ESP32. It's based on the ESP32-HUB75-MatrixPanel-DMA library by mrcodetastic.
 
 ## Project Structure
 ```
